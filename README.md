@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá, eu sou Magno Varlon (Magno) 👋
 
-<!--
-**MagnoVarlon/MagnoVarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Estudante em progresso (desenvovedor)*💻
 
-Here are some ideas to get you started:
+***Cursando Desenvolvimento em Sistemas** [IMES](https://faculdadeimes.org.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
+
+
+
+⚫ **SOCIAL**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+16+981819021)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magno-varlon-5b1011302/)
+
+
+⚫ **FERRAMENTAS**
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+⚫ **LINGUAGENS**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+
+
+
+
+
